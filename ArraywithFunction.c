@@ -7,12 +7,13 @@ void arrayFunction(int arr[],int size){
         printf("%d ",arr[i]);
     }
     
+
  printf("\n");
 }
 
 void getElement(int arr[],int size,int index){
     if(index>=0&& index<size)
-    printf("%d",arr[index]);
+    printf("%d ",arr[index]);
 }
 
 int main(){
