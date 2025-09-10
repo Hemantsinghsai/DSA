@@ -4,7 +4,7 @@ void arrayFunction(int arr[],int size){
     int i;
 
     for(i=0;i<size;i++){
-        printf("%d ",arr[i]);
+        printf("%d",arr[i]);
     }
     
 
@@ -13,7 +13,7 @@ void arrayFunction(int arr[],int size){
 
 void getElement(int arr[],int size,int index){
     if(index>=0&& index<size)
-    printf("%d ",arr[index]);
+    printf("%d",arr[index]);
 }
 
 int main(){
