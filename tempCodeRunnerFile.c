@@ -1,0 +1,4 @@
+for(i=n-1;i>=0;i++){
+    //     if(k<arr[i])
+    //     temp=i;
+    // }
